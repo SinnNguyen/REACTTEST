@@ -51,7 +51,7 @@ const Navbar = () => {
                   <span className="sr-only">Xem thông báo</span>
                   <ShoppingCartIcon className="h-6 w-6 mt-2" aria-hidden="true" /><sup>(1)</sup>
                 </button>
-                <p className='font-semibold mx-5 my-5'>Nhựt Trường</p>
+                <p className='font-semibold mx-5 my-5 text-white'>Nhựt Trường</p>
                 {/* Profile dropdown */}
                 <Menu as="div" className="relative ml-3">
                   <div>
